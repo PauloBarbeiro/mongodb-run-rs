@@ -3,7 +3,7 @@
 This docker file aims to build one MongoDb service to be used in BitBucket Pipelines for testing purposes.
 It implements the library run-rs, with is a way to automatize the Mongodb replica set setup.
 
-##Using in Bitbucket Pipeline example
+## Using in Bitbucket Pipeline example
 ```yaml
 image: node:10-alpine
 
@@ -26,5 +26,5 @@ definitions:
       restart: always
 ```
 
-###References:
+### References:
 https://www.npmjs.com/package/run-rs
