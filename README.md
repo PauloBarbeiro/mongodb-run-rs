@@ -1,6 +1,6 @@
 # mongodb-run-rs
 
-This docker file aims to build one MongoDb service to be used in BitBucket Pipelines for testing purposes.
+This Dockerfile aims to build one MongoDb service to be used in BitBucket Pipelines for testing purposes.
 It implements the library run-rs, with is a way to automatize the Mongodb replica set setup.
 
 ## Using in Bitbucket Pipeline example
