@@ -27,5 +27,4 @@ definitions:
 ```
 
 ###References:
-https://thecodebarbarian.com/introducing-run-rs-zero-config-mongodb-runner.html
 https://www.npmjs.com/package/run-rs
